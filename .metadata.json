@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "mathjaxr",
+    "oncran": true
+  },
+  {
+    "package": "metadat",
+    "oncran": true
+  },
+  {
+    "package": "metafor",
+    "oncran": true
+  }
+]
