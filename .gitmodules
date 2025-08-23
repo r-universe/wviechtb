@@ -11,3 +11,6 @@
 [submodule "metafor"]
 	path = metafor
 	url = https://github.com/wviechtb/metafor
+[submodule "plotannotate"]
+	path = plotannotate
+	url = https://github.com/wviechtb/plotannotate
